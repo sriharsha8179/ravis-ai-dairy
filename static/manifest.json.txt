@@ -1,0 +1,15 @@
+{
+  "name": "Ravi's AI Dairy Farm",
+  "short_name": "AI Dairy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2E8B57",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
